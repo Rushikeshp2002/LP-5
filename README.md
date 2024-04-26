@@ -6,3 +6,6 @@ DFS => https://respected-tapir-d6c.notion.site/HPC-Practical-2-7a856509c0374af5a
 Bubble => https://respected-tapir-d6c.notion.site/HPC-Practical-3-7f25f1e42812427ab907d6b3af56b3bb?pvs=74<br>
 Merge => https://respected-tapir-d6c.notion.site/HPC-Practical-4-5bef01b674c746d0a11d9d005e8d1719?pvs=4<br>
 Parallel Reduction => https://respected-tapir-d6c.notion.site/HPC-Practical-5-b35c6aa14fa14ff38676cc1f1c68964f?pvs=74<br>
+CUDA Addition of two large vectors => https://respected-tapir-d6c.notion.site/HPC-Practical-6-b916d1705ad748898b3fdc428fa44361?pvs=4<br>
+CUDA Matrix Multiplication => https://respected-tapir-d6c.notion.site/HPC-Practical-7-eb7c800d576d498e89c829ecc0a8c178?pvs=4
+
